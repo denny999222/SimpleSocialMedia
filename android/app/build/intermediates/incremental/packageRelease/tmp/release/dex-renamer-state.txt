@@ -1,0 +1,7 @@
+#Thu Jun 27 20:00:13 EDT 2019
+base.0=C\:\\Users\\KSHARMA\\Dype\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\KSHARMA\\Dype\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0

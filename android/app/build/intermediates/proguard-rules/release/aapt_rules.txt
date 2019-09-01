@@ -1,0 +1,274 @@
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:186
+-keep class abi31_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:264
+-keep class abi31_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:183
+-keep class abi32_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:217
+-keep class abi32_0_0.expo.modules.appauth.AppAuthBrowserActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:250
+-keep class abi32_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:180
+-keep class abi33_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:236
+-keep class abi33_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:116
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:428
+-keep class android.support.v4.content.FileProvider { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:645
+-keep class com.facebook.CampaignTrackingReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:638
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:482
+-keep class com.facebook.CustomTabActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:481
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:293
+-keep class com.facebook.FacebookActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:483
+-keep class com.facebook.ads.AudienceNetworkActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:298
+-keep class com.facebook.ads.InterstitialAdActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:496
+-keep class com.facebook.ads.internal.ipc.AdsMessengerService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:493
+-keep class com.facebook.ads.internal.ipc.AdsProcessPriorityService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:487
+-keep class com.facebook.ads.internal.ipc.RemoteANActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:633
+-keep class com.facebook.internal.FacebookInitProvider { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:176
+-keep class com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:538
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:500
+-keep class com.google.android.gms.analytics.AnalyticsJobService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:326
+-keep class com.google.android.gms.analytics.AnalyticsReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:335
+-keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:518
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:509
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:610
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:341
+-keep class com.google.android.gms.gcm.GcmReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:570
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:584
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:565
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:580
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:554
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:590
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:602
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:547
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:615
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:392
+-keep class com.theartofdev.edmodo.cropper.CropImageActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:447
+-keep class expo.modules.appauth.AppAuthBrowserActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:467
+-keep class expo.modules.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:477
+-keep class expo.modules.location.services.LocationTaskService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:221
+-keep class expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:453
+-keep class expo.modules.taskManager.TaskBroadcastReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:462
+-keep class expo.modules.taskManager.TaskJobService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:190
+-keep class host.exp.exponent.ExponentDevActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:304
+-keep class host.exp.exponent.ExponentIntentService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:125
+-keep class host.exp.exponent.LauncherActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:137
+-keep class host.exp.exponent.MainActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:116
+-keep class host.exp.exponent.MainApplication { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:281
+-keep class host.exp.exponent.chrometabs.ChromeTabsManagerActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:283
+-keep class host.exp.exponent.experience.ErrorActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:131
+-keep class host.exp.exponent.experience.ExperienceActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:158
+-keep class host.exp.exponent.experience.HomeActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:288
+-keep class host.exp.exponent.experience.InfoActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:165
+-keep class host.exp.exponent.experience.TvActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:373
+-keep class host.exp.exponent.fcm.ExpoFcmMessagingService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:386
+-keep class host.exp.exponent.fcm.FcmRegistrationIntentService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:353
+-keep class host.exp.exponent.gcm.ExponentGcmListenerService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:360
+-keep class host.exp.exponent.gcm.ExponentInstanceIDListenerService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:367
+-keep class host.exp.exponent.gcm.GcmRegistrationIntentService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:425
+-keep class host.exp.exponent.notifications.ScheduledNotificationReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:215
+-keep class host.exp.exponent.oauth.OAuthResultActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:198
+-keep class host.exp.exponent.oauth.OAuthWebViewActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:309
+-keep class host.exp.exponent.referrer.InstallReferrerReceiver { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:529
+-keep class io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:535
+-keep class io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:532
+-keep class io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:523
+-keep class net.openid.appauth.AuthorizationManagementActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:203
+-keep class net.openid.appauth.RedirectUriReceiverActivity { <init>(); }
+# Referenced at C:\Users\KSHARMA\Dype\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:437
+-keep class versioned.host.exp.exponent.modules.api.components.webview.RNCWebViewFileProvider { <init>(); }
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\42b81a48296d40e05320b90e2f149add\res\layout\design_bottom_navigation_item.xml:27
+-keep class android.support.design.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\42b81a48296d40e05320b90e2f149add\res\layout\design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\42b81a48296d40e05320b90e2f149add\res\layout\design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\42b81a48296d40e05320b90e2f149add\res\layout\design_text_input_password_icon.xml:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\42b81a48296d40e05320b90e2f149add\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class android.support.design.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\42b81a48296d40e05320b90e2f149add\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\42b81a48296d40e05320b90e2f149add\res\layout\design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\42b81a48296d40e05320b90e2f149add\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\42b81a48296d40e05320b90e2f149add\res\layout\design_layout_snackbar_include.xml:18
+-keep class android.support.design.widget.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\Dype\android\app\src\main\res\layout\error_activity_new.xml:2
+-keep class android.support.v4.view.ViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\facebook-common-5.0.1.aar\5b74ef4ae7ae063af565460bf8ebc186\res\layout\com_facebook_smart_device_dialog_fragment.xml:47
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\facebook-common-5.0.1.aar\5b74ef4ae7ae063af565460bf8ebc186\res\layout\com_facebook_device_auth_dialog_fragment.xml:45
+-keep class android.support.v7.widget.AppCompatImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\facebook-common-5.0.1.aar\5b74ef4ae7ae063af565460bf8ebc186\res\layout\com_facebook_smart_device_dialog_fragment.xml:22
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\facebook-common-5.0.1.aar\5b74ef4ae7ae063af565460bf8ebc186\res\layout\com_facebook_device_auth_dialog_fragment.xml:22
+-keep class android.support.v7.widget.CardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout-v26\abc_screen_toolbar.xml:37
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\expoview-33.0.0.aar\560fba15a7d05c611dc781844a3ea1d0\res\layout\oauth_webview_activity.xml:5
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\expoview-33.0.0.aar\560fba15a7d05c611dc781844a3ea1d0\res\layout\info_activity.xml:14
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_alert_dialog_title_material.xml:56
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\af4e81459d0f4cb799fa40646d238cd4\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\customtabs-28.0.0.aar\a4b1551e40724cbe6d91d03b657a46b6\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.2.aar\7e047fe019204225b7ccc39392833042\res\layout\exo_simple_player_view.xml:18
+-keep class com.google.android.exoplayer2.ui.AspectRatioFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.2.aar\7e047fe019204225b7ccc39392833042\res\layout\exo_playback_control_view.xml:76
+-keep class com.google.android.exoplayer2.ui.DefaultTimeBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.2.aar\7e047fe019204225b7ccc39392833042\res\layout\exo_simple_player_view.xml:35
+-keep class com.google.android.exoplayer2.ui.SubtitleView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.2.aar\7e047fe019204225b7ccc39392833042\res\layout\exo_track_selection_dialog.xml:20
+-keep class com.google.android.exoplayer2.ui.TrackSelectionView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\04f2d7c558bb6d278b378587671694ad\res\layout\amu_text_bubble.xml:7
+-keep class com.google.maps.android.ui.RotationLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\d00c313763f5f872a43e231afd5cc123\res\layout\crop_image_activity.xml:2
+-keep class com.theartofdev.edmodo.cropper.CropImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\d00c313763f5f872a43e231afd5cc123\res\layout\crop_image_view.xml:13
+-keep class com.theartofdev.edmodo.cropper.CropOverlayView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\KSHARMA\Dype\android\app\src\main\res\layout\error_fragment.xml:57
+# Referenced at C:\Users\KSHARMA\Dype\android\app\src\main\res\layout\error_console_fragment.xml:25
+-keep class host.exp.exponent.views.ExponentImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
